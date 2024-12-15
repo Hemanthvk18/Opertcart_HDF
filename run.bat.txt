@@ -1,0 +1,2 @@
+cd C:\Users\heman\eclipse-workspace1\openCart_HDF
+mvn test

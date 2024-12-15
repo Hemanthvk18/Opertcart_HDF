@@ -1,0 +1,58 @@
+21:21:42.129 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** test start***
+21:21:42.265 [main] INFO  testCases.TC_001_AccountRegistrationTest - myaccount ok
+21:21:44.525 [main] INFO  testCases.TC_001_AccountRegistrationTest - Register ok
+21:21:44.526 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering details 
+21:21:44.645 [main] INFO  testCases.TC_001_AccountRegistrationTest - fname ok
+21:21:44.720 [main] INFO  testCases.TC_001_AccountRegistrationTest - lname ok
+21:21:44.833 [main] INFO  testCases.TC_001_AccountRegistrationTest - email ok
+21:21:44.910 [main] INFO  testCases.TC_001_AccountRegistrationTest - phonenumber ok
+21:21:45.069 [main] INFO  testCases.TC_001_AccountRegistrationTest - password ok
+21:21:45.956 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** test end***
+21:38:31.595 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** test start***
+21:38:31.753 [main] INFO  testCases.TC_001_AccountRegistrationTest - myaccount ok
+21:38:43.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - Register ok
+21:38:43.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering details 
+21:38:43.236 [main] INFO  testCases.TC_001_AccountRegistrationTest - fname ok
+21:38:43.330 [main] INFO  testCases.TC_001_AccountRegistrationTest - lname ok
+21:38:43.416 [main] INFO  testCases.TC_001_AccountRegistrationTest - email ok
+21:38:43.492 [main] INFO  testCases.TC_001_AccountRegistrationTest - phonenumber ok
+21:38:43.659 [main] INFO  testCases.TC_001_AccountRegistrationTest - password ok
+21:38:50.086 [main] ERROR testCases.TC_001_AccountRegistrationTest - validating message
+21:38:50.086 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed...
+21:38:50.090 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** test end***
+16:34:21.682 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+16:34:25.390 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+16:35:20.660 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:35:28.808 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+17:45:59.640 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+17:48:32.844 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+17:48:49.557 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+18:02:41.065 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+18:02:46.450 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+20:16:27.188 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** test start***
+20:16:27.402 [main] INFO  testCases.TC_001_AccountRegistrationTest - myaccount ok
+20:16:28.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - Register ok
+20:16:28.669 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering details 
+20:16:28.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - fname ok
+20:16:28.902 [main] INFO  testCases.TC_001_AccountRegistrationTest - lname ok
+20:16:29.013 [main] INFO  testCases.TC_001_AccountRegistrationTest - email ok
+20:16:29.112 [main] INFO  testCases.TC_001_AccountRegistrationTest - phonenumber ok
+20:16:29.289 [main] INFO  testCases.TC_001_AccountRegistrationTest - password ok
+20:16:30.348 [main] ERROR testCases.TC_001_AccountRegistrationTest - validating message
+20:16:30.349 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed...
+20:16:30.351 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** test end***
+20:22:16.519 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+20:22:17.431 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+20:23:27.037 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** test start***
+20:23:27.174 [main] INFO  testCases.TC_001_AccountRegistrationTest - myaccount ok
+20:23:27.809 [main] INFO  testCases.TC_001_AccountRegistrationTest - Register ok
+20:23:27.809 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering details 
+20:23:27.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - fname ok
+20:23:27.982 [main] INFO  testCases.TC_001_AccountRegistrationTest - lname ok
+20:23:28.069 [main] INFO  testCases.TC_001_AccountRegistrationTest - email ok
+20:23:28.140 [main] INFO  testCases.TC_001_AccountRegistrationTest - phonenumber ok
+20:23:28.275 [main] INFO  testCases.TC_001_AccountRegistrationTest - password ok
+20:23:29.240 [main] ERROR testCases.TC_001_AccountRegistrationTest - validating message
+20:23:29.240 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed...
+20:23:29.243 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** test end***
+20:23:37.164 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
